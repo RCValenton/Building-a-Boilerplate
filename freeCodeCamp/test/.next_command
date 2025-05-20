@@ -6,3 +6,18 @@ echo for the freeCodeCamp bash lessons >> README.md
 more README.md
 cd ..
 ls --color=auto
+more readme.md
+more README.md
+rm -r README.md
+cd website
+ls --color=auto
+rm -r README.md
+ls --color=auto
+echo I made this boilerplate >> README.md
+echo from the command line >> README.md
+echo for the freeCodeCamp bash lessons >> README.md
+more README.md
+cd ..
+ls --color=auto
+move website website-boilerplate
+mv website website-boilerplate
