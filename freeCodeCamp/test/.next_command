@@ -24,3 +24,6 @@ mv website website-boilerplate
 ls --color=auto
 copy --help
 cp --help
+ls --color=auto
+cp -r toms-website
+cp -r website-boilerplate toms-website
